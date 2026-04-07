@@ -277,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <strong>Built with ❤️ and a passion for history</strong>
+  <strong>build by an Indian with sleepy eyes 💤
 </p>
 
 <p align="center">
